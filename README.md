@@ -7,10 +7,9 @@ The goal of this task was to configure OpenVAS, perform a full system scan, iden
 ---
 
 ## Repository Structure
-- **screenshots/** → Setup, scan configuration, and results screenshots.  
-- **report/** → Exported PDF vulnerability scan report.  
-- **summary.md** → Risk assessment summary of identified CVEs and recommendations.  
-- **setup.md** → Step-by-step guide to install, configure, and run OpenVAS with Juice Shop.  
+- **Screenshots/** → Setup, scan configuration, and results screenshots.  
+- **Report.PDF** → Exported PDF vulnerability scan report.  
+- **Report Summary.md** → Risk assessment summary of identified CVEs and recommendations.  
 - **README.md** → Main documentation (this file).  
 
 ---
