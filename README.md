@@ -34,9 +34,9 @@ The goal of this task was to configure OpenVAS, perform a full system scan, iden
 ---
 
 ## Deliverables
-- **PDF Scan Report** → Located in `report/`  
-- **Screenshots** → Setup and results in `screenshots/`  
-- **Risk Assessment Summary** → `summary.md`  
+- **PDF Scan Report** → `Report.PDF`  
+- **Screenshots** → Setup and results in `Screenshots/`  
+- **Risk Assessment Summary** → `Report summary.md`  
 
 ---
 
